@@ -1,13 +1,13 @@
 {
   "name": "atom-svn-commit",
   "main": "./lib/svn-commit",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Simple SVN commit plugin for the Atom editor to `svn ci` the current working file with a commit message right in the editor.",
   "keywords": ["atom-svn-commit"],
   "activationCommands": {
     "atom-workspace": "svn-commit:commit"
   },
-  "repository": "",
+  "repository": "https://github.com/glowurms/atom-svn-commit",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
