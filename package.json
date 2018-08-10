@@ -1,9 +1,11 @@
 {
   "name": "atom-svn-commit",
   "main": "./lib/svn-commit",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Simple SVN commit plugin for the Atom editor to commit the current working file to the repository with a commit message right in the editor.",
-  "keywords": ["atom-svn-commit"],
+  "keywords": [
+    "atom-svn-commit"
+  ],
   "activationCommands": {
     "atom-workspace": "svn-commit:commit"
   },
