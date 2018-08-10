@@ -20,7 +20,7 @@ Works for Subversion working copies:
 * Search `atom-svn-commit`
 * Click the install button on the *atom-svn-commit* package
 
-##### `apm`
+##### Via `apm`
 ###### Install:
 `apm install atom-svn-commit`
 
@@ -37,4 +37,4 @@ Clone/download this repo then copy or move the working copy into your Atom packa
 ###### Mac/Linux location:
 `~/.atom/packages/`
 
-##### Both methods may require a restart of the Atom text editor
+##### May require a restart of the Atom text editor
