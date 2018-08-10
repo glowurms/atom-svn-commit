@@ -1,0 +1,21 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "SVN commit current file",
+        "command": "svn-commit:commit"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "SVN commit current file",
+          "command": "svn-commit:commit"
+        }
+      ]
+    }
+  ]
+}
